@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaiwiwat Foungpaisarn</h1>
-<h3 align="center">I have been programming for 6 years with 3 years of real experience as a full stack developerA passionate frontend developer from Thailand</h3>
+<h3 align="center">I have been programming for 6 years with 3 years of real experience as a full stack developer passionate frontend developer from Thailand</h3>
 <p align="left">
 </p>
 
@@ -9,26 +9,26 @@
 
 **chaiwiwatmixx/chaiwiwatmixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3 align="left">Skill:</h3>
+<h2 align="left">Skill:</h2>
 
-<h5 align="left">Programming/Languages:</h5>
+<h3 align="left">Programming/Languages:</h3>
  -Javascript ,Python ,Golang ,Java, Dark, SQL, HTML/CSS
-<h5 align="left">Frontend:</h5>
+<h3 align="left">Frontend:</h3>
 -react (redux, zustand)
 -mui, bootstrap, tailwind, html / css
 -figma
-<h5 align="left">Backend:</h5>
+<h3 align="left">Backend:</h3>
 -Nodejs(Javascript) , Django(python) 
-<h5 align="left">Databases:</h5>
+<h3 align="left">Databases:</h3>
 -My sql, MongoDB ,Postgre Sql , Firebase (prisma, sequelize, mongoose)
-<h5 align="left">Mobile App : </h5>
+<h3 align="left">Mobile App : </h3>
 -React Native
-<h5 align="left">Desktop App : </h5>
+<h3 align="left">Desktop App : </h3>
 -tkinter, qt
-<h5 align="left">Data science / machine learning (python): </h5>
+<h3 align="left">Data science / machine learning (python): </h3>
 -pandas, numpy, Scikit-learn
-<h5 align="left">Automation(python):</h5>
+<h3 align="left">Automation(python):</h3>
 -Selenium(web), pywin32(desktop), adb(mobile)
-<h5 align="left">Deploy:</h5>
+<h3 align="left">Deploy:</h3>
 -linux ubuntu server
 -render, heroku, netlify
