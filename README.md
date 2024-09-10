@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaiwiwat Foungpaisarn</h1>
-<h3 align="center">I have been programming for 6 years with 3 years of real experience as a full stack developerA passionate frontend developer from India</h3>
+<h3 align="center">I have been programming for 6 years with 3 years of real experience as a full stack developerA passionate frontend developer from Thailand</h3>
 <p align="left">
 </p>
 
